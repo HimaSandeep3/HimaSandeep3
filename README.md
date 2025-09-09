@@ -1,4 +1,4 @@
-### 💫 About Me  
+## 💫 About Me  
 Hi there! I'm a passionate full-stack developer currently focused on enhancing my expertise in **.NET Core** and **ReactJS**.
 
 - 🚀 Actively exploring large-scale application architecture and performance optimization in .NET  
